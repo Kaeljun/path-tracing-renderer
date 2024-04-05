@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "xstring": "cpp"
+    },
+    "cmake.configureOnOpen": true,
+    "cmake.cmakePath": "C:/Program Files/CMake/bin/cmake.exe",
+    "cmake.generator": "Visual Studio 16 2019",
+}
