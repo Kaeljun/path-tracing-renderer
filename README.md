@@ -1,1 +1,1 @@
-A simple path tracing renderer built with c++
+A ray tracing renderer built with c++
